@@ -1,0 +1,10 @@
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\obj\Debug\Ritprogram1.csprojAssemblyReference.cache
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\obj\Debug\Ritprogram1.Form1.resources
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\obj\Debug\Ritprogram1.Properties.Resources.resources
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\obj\Debug\Ritprogram1.csproj.GenerateResource.cache
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\obj\Debug\Ritprogram1.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\bin\Debug\Ritprogram1.exe.config
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\bin\Debug\Ritprogram1.exe
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\bin\Debug\Ritprogram1.pdb
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\obj\Debug\Ritprogram1.exe
+C:\Users\benjamin.cosic\source\repos\Ritprogram1\Ritprogram1\obj\Debug\Ritprogram1.pdb
